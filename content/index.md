@@ -9,21 +9,13 @@ seo:
 ---
 orientation: horizontal
 ---
-  :::prose-pre
-  ---
-  code: npx nuxi init -t github:nuxt-ui-pro/docs
-  filename: Terminal
-  ---
-  ```bash
-  npx nuxi init -t github:nuxt-ui-pro/docs
-  ```
-  :::
+![heroimagehomepage.webp](/heroimagehomepage.webp)
 
 #title
-Build your docs with Nuxt UI Pro
+**Discover My Work**
 
 #description
-Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes.
+Explore some website projects designed for businesses & creatives.
 
 #links
   :::u-button
@@ -32,19 +24,18 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   to: /getting-started
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  See my portfoglio
   :::
 
   :::u-button
   ---
   color: neutral
-  icon: i-simple-icons-github
+  icon: i-lucide-phone
   size: xl
-  target: _blank
-  to: https://github.com/nuxt-ui-pro/docs
+  to: /contact
   variant: subtle
   ---
-  Use this template
+  Contact me
   :::
 ::
 
