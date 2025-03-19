@@ -9,7 +9,7 @@ seo:
 ---
 orientation: horizontal
 ---
-![heroimagehomepage.webp](/heroimagehomepage.webp)
+![Illustration of me working](/heroimagehomepage.webp)
 
 #title
 **Discover My Work**
